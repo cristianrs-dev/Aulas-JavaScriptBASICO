@@ -1,0 +1,1 @@
+var a=prompt("informe o primeiro valor")

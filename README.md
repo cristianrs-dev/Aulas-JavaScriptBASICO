@@ -1,5 +1,6 @@
-# Conceitos Iniciais em JavaScript #
+# Conceitos Iniciais e básicos em JavaScript #
 
+<<<<<<< HEAD
 ### Neste respositórios são abordados os conceitos iniciais da linguagem JavaScrit: ###
 
 1. variaveis e tipos de variaveis
@@ -16,3 +17,4 @@
 7. conversao de string para numero:
 .parseInt
 .parseFloat
+=======

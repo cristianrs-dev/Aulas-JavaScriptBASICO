@@ -1,7 +1,7 @@
 # Conceitos Iniciais e básicos em JavaScript #
 
 <<<<<<< HEAD
-### Neste respositórios são abordados os conceitos iniciais da linguagem JavaScrit: ###
+### Neste respositório são abordados os conceitos iniciais da linguagem JavaScrit: ###
 
 1. variaveis e tipos de variaveis
 2. como fazer comentarios

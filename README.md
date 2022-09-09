@@ -10,11 +10,11 @@
 5. operadores comparativos e suas especificações
 
 6. operadores lógicos:
-.&& ------> E
-.|| ------> OU
-.!  ------> NEGAÇÃO
+1.&& ------> E
+2.|| ------> OU
+3.!  ------> NEGAÇÃO
 
 7. conversao de string para numero:
-.parseInt
-.parseFloat
+1.parseInt
+2.parseFloat
 =======

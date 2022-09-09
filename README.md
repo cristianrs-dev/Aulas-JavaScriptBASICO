@@ -11,9 +11,9 @@
 
 6. operadores lógicos:
 
-1.&& ------> E;
-2.|| ------> OU;
-3.!  ------> NEGAÇÃO;
+1. && ------> E;
+2. || ------> OU;
+3. !  ------> NEGAÇÃO;
 
 7. conversao de string para numero:
 

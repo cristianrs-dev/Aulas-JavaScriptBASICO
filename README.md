@@ -17,6 +17,6 @@
 
 7. conversao de string para numero:
 
-1.parseInt;
-2.parseFloat;
+1. parseInt;
+2. parseFloat;
 =======

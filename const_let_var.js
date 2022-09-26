@@ -1,6 +1,6 @@
 var numero1=1
 let numero2=2
-const numero3=3
+
 
 //CONST
 /*
@@ -9,12 +9,18 @@ modificada mas não reatribuida
 
 */
 
+function mostraNumero1(){
+    console.log(numero1)
+}
+
 function mostrarNumero3(){
+    const numero3=5
     console.log(numero3)
 
     //a varivel numero3 não vai funcionar dentro deste bloco 
     /* Esse bloco é um escopo local*/
 }
+console.log(numero3)
 
 //LET
 /*
